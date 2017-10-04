@@ -1,4 +1,5 @@
 // content of node-srvr.js
+// trying to use node server for project
 const http = require('http')
 const port = 3000
 
